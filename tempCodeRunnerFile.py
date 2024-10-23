@@ -1,0 +1,1 @@
+print("hi my name is ZaHid".find('Is'))
