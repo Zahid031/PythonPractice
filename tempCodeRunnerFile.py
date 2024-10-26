@@ -1,1 +1,6 @@
-print("hi my name is ZaHid".find('Is'))
+
+
+import math
+
+x=10
+print(math.pow(x,2))
